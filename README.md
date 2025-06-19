@@ -82,6 +82,6 @@ This analysis investigates the relationship between BTC and ETH price movements 
 
 ## 📄 License
 
-MIT License (see `LICENSE` file for details).
+MIT License
 
 
